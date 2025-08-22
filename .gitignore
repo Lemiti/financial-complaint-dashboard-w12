@@ -2,4 +2,4 @@ data/
 venv/
 *.pyc
 __pycache__/
-
+cfpb_complaint_analyst.egg-info
