@@ -4,6 +4,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from data_pipeline import load_complaints_sample, clean_complaint_data
+from semantic_search import 
 
 # Page configuration
 st.set_page_config(
