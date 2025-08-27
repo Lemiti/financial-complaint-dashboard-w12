@@ -3,3 +3,5 @@ venv/
 *.pyc
 __pycache__/
 cfpb_complaint_analyst.egg-info
+data/consumer_complaints.csv
+data/consumer_complaints.csv.zip
