@@ -6,8 +6,6 @@
 
 An intelligent dashboard for analyzing consumer financial complaints with AI-powered semantic search capabilities. Built specifically for financial sector risk analysis and compliance monitoring.
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=CFPB+Complaint+Analyst+Dashboard) 
-*Add a screenshot of your dashboard here*
 
 ## ✨ Features
 
@@ -125,4 +123,5 @@ For Regulators
 - **Pattern Detection**: Identify systemic issues across institutions
 - **Policy Impact**: Measure effects of regulatory changes
 - **Transparency**: Public-facing dashboard capabilities
+
 
